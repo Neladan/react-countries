@@ -1,3 +1,5 @@
+/* eslint-disable react/prop-types */
+// eslint-disable-next-line react/prop-types
 const Card = ({ country }) => {
     return (
         <li className="card">
