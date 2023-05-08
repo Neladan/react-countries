@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "author": "Bill Gates",
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.\n\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.",
+      "date": 1621536029778,
+      "id": 2
+    },
+    {
+      "author": "Mark Zuckerberg",
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. ",
+      "date": 1621536056135,
+      "id": 3
+    },
+    {
+      "author": "Leo",
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.",
+      "date": 1683552691943,
+      "id": 4
+    },
+    {
+      "author": "Alucard",
+      "content": "mon échine est parcouru des frissons lorsque des recrues paniqués poignards de frénétiquement leur ennemi leur arrache en clips et boyaux sans penser que leur victime ne sont rien d'autre que des hommes semblables à leurs frères. comment résister à la vue d'un déserteur pendu à un",
+      "date": 1683554192434,
+      "id": 5
+    },
+    {
+      "author": "Clark ",
+      "content": "Alucard est l'un des premiers vampires ayant existé, si ce n'est le premier. Généralement vêtu d'un costume assez vétuste datant probablement du xixe siècle et de son célèbre manteau rouge vif ainsi que de son chapeau, Alucard a les cheveux noirs et longs, et arbore une paire de lunettes à reflets jaunes. Néanmoins, selon le fait qu'il ait levé les sceaux (barrières ayant pour but de limiter l'utilisation de ses capacités) ou non, son aspect change.",
+      "date": 1683554928812,
+      "id": 9
+    }
+  ]
+}
